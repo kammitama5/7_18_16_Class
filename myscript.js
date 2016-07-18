@@ -18,3 +18,4 @@ var pageNode2 = document.getElementsByTagName('body')[0];
 pageNode2.style.backgroundColor = '#9370DB';
 pageNode2.style.paddingTop = '10px';
 
+pageNode2.innerHTML += '...did I not I tell you they were awesome?';
